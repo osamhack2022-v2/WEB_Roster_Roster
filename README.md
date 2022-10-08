@@ -1,3 +1,1 @@
-# Roster_Project
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-srn9nw)
+당직근무표 만드는 웹프로그램
