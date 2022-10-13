@@ -1,0 +1,29 @@
+*{
+  margin : 0;
+  padding : 0;
+  box-sizing: border-box;
+}
+
+table, tr, th, td {
+  border : 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table{
+  width: 40%;
+}
+
+td{
+  padding : 4%;
+}
+
+/* .Container{
+  display: flex;
+} */
+
+/* .LeftPart{
+  width: 15%;
+  display: flex;
+  margin: 2% 0% 0% 2%;
+} */

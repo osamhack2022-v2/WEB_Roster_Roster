@@ -1,0 +1,19 @@
+1. 적은 수의 당직근무자로 한 달 근무 다짜는 로직..
+  - map 이용해서 index가 initialState.workerList.length 길이랑 같아지면 다시 initialState.workerList의 index를 0으로 만들어서 하기 식 initialState.workerList.length > index ? index = 0 : concat(initialState.workerList, 날짜 배열)
+
+
+
+
+
+
+
+
+
+ 날짜 자료형
+  {
+    weekCount: '',
+    dayList : [  
+      {id: calenderPos,
+      day: ' ',}
+    ]
+  }
